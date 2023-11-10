@@ -61,5 +61,6 @@
     "string": "cpp",
     "vector": "cpp",
     "*.tcc": "cpp"
-  }
+  },
+  "C_Cpp_Runner.msvcSecureNoWarnings": false
 }

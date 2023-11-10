@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/zczak/Desktop/competbilal2",
-      "program": "c:/Users/zczak/Desktop/competbilal2/build/Debug/outDebug",
+      "cwd": "c:/Users/zczak/Desktop/CPP-CP/competbilal2",
+      "program": "c:/Users/zczak/Desktop/CPP-CP/competbilal2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
