@@ -124,5 +124,6 @@
     "streambuf": "cpp",
     "thread": "cpp",
     "typeindex": "cpp"
-  }
+  },
+  "C_Cpp_Runner.msvcSecureNoWarnings": false
 }

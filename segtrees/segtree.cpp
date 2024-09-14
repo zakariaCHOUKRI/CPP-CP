@@ -51,8 +51,5 @@ void update(int v, int tl, int tr, int pos, int new_val) {
 int main() {
 
 
-
-
-
 	return 0;
 }
