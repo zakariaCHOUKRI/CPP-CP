@@ -10,8 +10,8 @@ int n, m;
 bool can_form_nestangle(int s) {
     int count = 1;
     int last_area = areas[0];
-    
-    for (int i = 1; i < n; ++i) {
+
+    for (int i=1; i<n; i++) {
         if (areas[i] - last_area >= s) {
             count++;
             last_area = areas[i];
